@@ -1,0 +1,1 @@
+Use `npm run tests` to run the tests. 
